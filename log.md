@@ -23,3 +23,18 @@
 **Thoughts:** Made lots of progress on my portfolio page. I'd like to expand the jQuery and work on the CSS. At the end of it, I'd like for my site to be so visually pleasing that people want to hire me. :) Next steps are uploading more screenshots of my work, turning that into a carosel, adding a contacts section and adding more style.
 
 **Link to work:** [Portfolio Page](http://codepen.io/lclc68lclc/full/rjaMMW)
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: Completed FreeCodeCamp's Portfolio Page
+
+**Thoughts:** One is never truly done with a portfolio page, but I managed to meet all of the requirments to move on to the Javascript portion of Free Code Camp. I'd still like to add a carosel to my Portfolio section. Maybe also move the page to a real site. 
+**Link to work:** [Portfolio Page](http://codepen.io/lclc68lclc/full/rjaMMW)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Graveyard Django App
+
+**Thoughts:** For a little background, I'd always had this idea to take invoices, parse the data and house it in a database. All the user would need to do is scan the invoices into the app (or email them to the apps' email address), and the database would automatically udpate to alleviate the need for manual entry. This could be useful for running reports and tracking whether something is paid. This works well if you have an accounting department or some outside source. Well, I got as far as testing it and running reports. My next steps were integrating the parsing tool, testing it and importing old data to test against. That was about a year ago. I shouldn't have let it go for so long, as I feel I can use in my everyday work. Needless to say, even though it sits in my Github, I'm kinda lost as where to start up again. Wondering if I should just go back to Front End. 
+
+**Link to work:** [Library](https://github.com/lclc68lclc/librarycbs)
