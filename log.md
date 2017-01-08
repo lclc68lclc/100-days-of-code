@@ -38,3 +38,10 @@
 **Thoughts:** For a little background, I'd always had this idea to take invoices, parse the data and house it in a database. All the user would need to do is scan the invoices into the app (or email them to the apps' email address), and the database would automatically udpate to alleviate the need for manual entry. This could be useful for running reports and tracking whether something is paid. This works well if you have an accounting department or some outside source. Well, I got as far as testing it and running reports. My next steps were integrating the parsing tool, testing it and importing old data to test against. That was about a year ago. I shouldn't have let it go for so long, as I feel I can use in my everyday work. Needless to say, even though it sits in my Github, I'm kinda lost as where to start up again. Wondering if I should just go back to Front End. 
 
 **Link to work:** [Library](https://github.com/lclc68lclc/librarycbs)
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Worked on new Homepage for E-commerce site
+
+**Thoughts:** I started a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. If only I could get the carousel page to work.  
+**Link to work:** [Handmade Home Page](http://codepen.io/lclc68lclc/full/EZVjQL/)
