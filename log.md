@@ -31,7 +31,7 @@
 **Thoughts:** One is never truly done with a portfolio page, but I managed to meet all of the requirments to move on to the Javascript portion of Free Code Camp. I'd still like to add a carosel to my Portfolio section. Maybe also move the page to a real site. 
 **Link to work:** [Portfolio Page](http://codepen.io/lclc68lclc/full/rjaMMW)
 
-### Day 5: January 5, 2017
+### Day 5: January 7, 2017
 
 **Today's Progress**: Graveyard Django App
 
