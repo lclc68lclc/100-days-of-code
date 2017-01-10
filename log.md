@@ -43,5 +43,12 @@
 
 **Today's Progress**: Worked on new Homepage for E-commerce site
 
-**Thoughts:** I started a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. If only I could get the carousel page to work.  
+**Thoughts:** I started a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. If only I could get the carousel page to work.
 **Link to work:** [Handmade Home Page](http://codepen.io/lclc68lclc/full/EZVjQL/)
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Worked on new Homepage for E-commerce site
+
+**Thoughts:** I continued working on a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. I got the carousel bootstrap feature to work. Yay! I had to remove the code from codepen to test it locally and that's where I found the error.     
+
