@@ -46,9 +46,15 @@
 **Thoughts:** I started a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. If only I could get the carousel page to work.
 **Link to work:** [Handmade Home Page](http://codepen.io/lclc68lclc/full/EZVjQL/)
 
-### Day 6: January 8, 2017
+### Day 7: January 9, 2017
 
 **Today's Progress**: Worked on new Homepage for E-commerce site
 
 **Thoughts:** I continued working on a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. I got the carousel bootstrap feature to work. Yay! I had to remove the code from codepen to test it locally and that's where I found the error.     
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: CSS Image Attempt and Eloquent JS Problem
+
+**Thoughts:** Upon opening my daily Medium email I saw that there was a daily CSS image project. I thought it would be cool. It's hard. A lot harder than I thought. That's goes to the point that you shouldn't try to do everything all at once. I'm going to keep trying but not devote too much time to it. In conjunction with Free Code Camp's Front End Developer track I'm also reading Eloquent Javascript. At the end of the chapter I was on, there were three problems to solve. I worked on two of them.     
 
