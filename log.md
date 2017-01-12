@@ -58,3 +58,8 @@
 
 **Thoughts:** Upon opening my daily Medium email I saw that there was a daily CSS image project. I thought it would be cool. It's hard. A lot harder than I thought. That's goes to the point that you shouldn't try to do everything all at once. I'm going to keep trying but not devote too much time to it. In conjunction with Free Code Camp's Front End Developer track I'm also reading Eloquent Javascript. At the end of the chapter I was on, there were three problems to solve. I worked on two of them.     
 
+### Day 9: January 11, 2017
+
+**Today's Progress**: Free Code Camp Counting Cards
+
+**Thoughts:** I haven't worked on any of my own code, no HTML or CSS images. I think I have a firm grasp on all of the basic concepts and while those projects produce results (the ones that this Code challenge are looking for the most), I am deep in the trenches of learning. Today was Javascript functions and I managed (with a little help to figure out the counting cards problem. More ideas are flowing for apps so soon I will be able to apply what I know to projects with a little more depth.
