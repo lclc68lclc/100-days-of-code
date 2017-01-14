@@ -63,3 +63,8 @@
 **Today's Progress**: Free Code Camp Counting Cards
 
 **Thoughts:** I haven't worked on any of my own code, no HTML or CSS images. I think I have a firm grasp on all of the basic concepts and while those projects produce results (the ones that this Code challenge are looking for the most), I am deep in the trenches of learning. Today was Javascript functions and I managed (with a little help to figure out the counting cards problem. More ideas are flowing for apps so soon I will be able to apply what I know to projects with a little more depth.
+
+### Day 10: January 13, 2017
+**Today's Progress**: Worked on new Homepage for E-commerce site
+
+**Thoughts:** I continued working on a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. I've added all of the parts to make it a prettier page. There is more work needed, but it's nice for now.
