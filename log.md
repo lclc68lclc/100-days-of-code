@@ -68,3 +68,13 @@
 **Today's Progress**: Worked on new Homepage for E-commerce site
 
 **Thoughts:** I continued working on a website for my mom's craft projects to help her sell them. It was something quick and painless, but I started creating a proper homepage for her site. I've added all of the parts to make it a prettier page. There is more work needed, but it's nice for now.
+
+### Days 11/12: January 14/15, 2017
+**Today's Progress**: FreeCodeCamp's Javascript section
+
+**Thoughts:** I didn't make much progress over the weekend and I'm not even sure I hit one hour a for each day, but I did slug along. I worked through the Javascript section and I had hoped to be finished by today, but that didn't happen. A better goal is maybe by the end of this week so that I can combine the coding projects with Javascript 30.
+
+### Day 13: January 16, 2017
+**Today's Progress**: Drum Kit for Javascript 30 (Day 1)
+
+**Thoughts:** I went through the tutorial to build the drum kit, checked my work and.....nothing. I'm tired and maybe seeing this code with a fresh pair of eyes will help. So it's back to work tomorrow.
