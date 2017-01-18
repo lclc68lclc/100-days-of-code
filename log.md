@@ -78,3 +78,9 @@
 **Today's Progress**: Drum Kit for Javascript 30 (Day 1)
 
 **Thoughts:** I went through the tutorial to build the drum kit, checked my work and.....nothing. I'm tired and maybe seeing this code with a fresh pair of eyes will help. So it's back to work tomorrow.
+
+### Day 14: January 17, 2017
+**Today's Progress**: Drum Kit for Javascript 30 (Day 1)
+
+**Thoughts:** I figured out my problem, it was two little backticks causing my data-keys to be undefined. This is also pointing out one of my fatal flaws: my lack of attention to details. Not sure if its gotten worse because of age, because of multi-tasking or because of distractions, but I have a means to stop it.
+
