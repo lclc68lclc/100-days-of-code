@@ -84,3 +84,12 @@
 
 **Thoughts:** I figured out my problem, it was two little backticks causing my data-keys to be undefined. This is also pointing out one of my fatal flaws: my lack of attention to details. Not sure if its gotten worse because of age, because of multi-tasking or because of distractions, but I have a means to stop it.
 
+### Day 15: January 18, 2017
+**Today's Progress**: JS + CSS Clock for Javascript 30 (Day 2)
+
+**Thoughts:** This was a cool little tutorial as part of JS30. I also finished out the basic javascript section of FreecodeCamp, and did some coding for work (which I know does not count). It feels good to be coding so much.
+
+### Day 16: January 19, 2017
+**Today's Progress**: Variables with CSS/JS for Javascript 30 (Day 3)
+
+**Thoughts:** This is a simple little thing that does some really cool things. The thing I like most is learning about the little nuances in javscript. From my limited understanding, I have been able to pick up on some key tools that I think will help me in the future.
