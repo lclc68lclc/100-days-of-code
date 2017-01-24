@@ -93,3 +93,27 @@
 **Today's Progress**: Variables with CSS/JS for Javascript 30 (Day 3)
 
 **Thoughts:** This is a simple little thing that does some really cool things. The thing I like most is learning about the little nuances in javscript. From my limited understanding, I have been able to pick up on some key tools that I think will help me in the future.
+
+### Day 17: January 20, 2017
+**Today's Progress**: Algorithms with Free Code Camp
+
+**Thoughts:** I worked on two algorithms.
+
+### Day 18: January 21, 2017
+**Today's Progress**: Array Cardio for Javascript 30 (Day 4)
+
+**Thoughts:** Tutorial that reiterated the things I'd been learning through FreeCodeCamp. The reduce(), sort(), etc. methods are extremely helpful for managing arrays and working with data.
+
+### Day 19: January 22, 2017
+**Today's Progress**: Flex Panels for Javascript 30 (Day 5)
+
+**Thoughts:** This tutorial showed how to make panels flex open and close. When it's closed it shows one word and when you click on the panel, it shows more words. The CSS was the real star of this show, and it makes me want to learn about flex.
+
+### Day 20: January 23, 2017
+**Today's Progress**: Algorithms with Free Code Camp
+**Thoughts:** I will admit that I got very frustrated going through the algoritms. I used the Read-Ask-Search methodology to get through them, but it is really hard (they said it would be). I'm also learning that I am beginning to think like a programmer. I simply need to write it out in the lengthest way and then condense it into functioning code.
+
+### Day 21: January 24, 2017
+**Today's Progress**: Type Ahead for Javascript 30 (Day 6)
+
+**Thoughts:** Type Ahead is a function that takes a JSON file and parses it so that when you begin to type a city or state, the letters highlight while it retrieves a match. This functionality is seen throughout the web and it is important to learn. Google uses similar functionality with their autocomplete.
