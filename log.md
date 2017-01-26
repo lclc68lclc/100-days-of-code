@@ -111,9 +111,20 @@
 
 ### Day 20: January 23, 2017
 **Today's Progress**: Algorithms with Free Code Camp
+
 **Thoughts:** I will admit that I got very frustrated going through the algoritms. I used the Read-Ask-Search methodology to get through them, but it is really hard (they said it would be). I'm also learning that I am beginning to think like a programmer. I simply need to write it out in the lengthest way and then condense it into functioning code.
 
 ### Day 21: January 24, 2017
-**Today's Progress**: Type Ahead for Javascript 30 (Day 6)
+**Today's Progress**: Type Ahead for Javascript 30 (Day 6)/Algorithms with Free Code Camp
 
-**Thoughts:** Type Ahead is a function that takes a JSON file and parses it so that when you begin to type a city or state, the letters highlight while it retrieves a match. This functionality is seen throughout the web and it is important to learn. Google uses similar functionality with their autocomplete.
+**Thoughts:** Type Ahead is a function that takes a JSON file and parses it so that when you begin to type a city or state, the letters highlight while it retrieves a match. This functionality is seen throughout the web and it is important to learn. Google uses similar functionality with their autocomplete. I also worked out an algorithm with no help (ouside of syntax as I'm still not good remembering all of it).
+
+### Day 22: January 25, 2017
+**Today's Progress**: Algorithms with Free Code Camp
+
+**Thoughts:** I worked on an algorithm that checks the ending of a string (if its just one word, then the last letter) and returns if it is true. I was using regex to get it right, but I'm not sure if that is the right solution. I also found a new website, codingame. It lets you programming with games. It's so cool. I will be adding it into my immersion technique that I am using to learn front end.
+
+### Day 23: January 26, 2017
+**Today's Progress**: Array Cardio for Javascript 30 (Day 7)
+
+**Thoughts:** We worked on the some(), every(), find() and findIndex() array methods. These are cool in that they add functionality and simplicity to your code.
