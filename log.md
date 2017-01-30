@@ -128,3 +128,18 @@
 **Today's Progress**: Array Cardio for Javascript 30 (Day 7)
 
 **Thoughts:** We worked on the some(), every(), find() and findIndex() array methods. These are cool in that they add functionality and simplicity to your code.
+
+### Day 24: January 27, 2017
+**Today's Progress**: Fun with HTML5 Canvas for Javascript 30 (Day 8) and two Algorithms for FreeCodeCamp
+
+**Thoughts**: HTML5 Canvas was super fun. We used hsl and varying widths to draw on a canvas. It wasn't too hard to work through. The algorithms on the other hand were hard, but I got through them. Hopefully I make it through the intermediate ones.
+
+### Day 25: January 28, 2017
+**Today's Progress**: 14 Dev Tools to Know and Shift to Select Multiple Checkboxes  for Javascript 30 (Day 9 and 10)
+
+**Thoughts**: It was cool to learn dev tools that I didn't know existed, especially the console ones. They will be extremely helpful going forward. The code we wrote for the multiple checkboxes is something that I can use at work, so I'll be testing it this week to see.
+
+### Day 26: January 29, 2017
+**Today's Progress**: Custom Video Player for Javascript 30 (Day 11)
+
+**Thoughts**: The custom video player tutorial was really helpful, and that's one of the things I've come to appreciate most about learning with JS30. We make reusable code. Code that will in the future make our lives and jobs easier.
