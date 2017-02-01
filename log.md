@@ -143,3 +143,19 @@
 **Today's Progress**: Custom Video Player for Javascript 30 (Day 11)
 
 **Thoughts**: The custom video player tutorial was really helpful, and that's one of the things I've come to appreciate most about learning with JS30. We make reusable code. Code that will in the future make our lives and jobs easier.
+
+##Day 27: January 30, 2017
+**Today's Progress**: Algorithms for FreeCodeCamp
+
+**Thoughts**: I did three Algorithms for FreeCodeCamp: Truncate a String, Chunky Monkey, and Slasher Flick.
+
+##Day 28: January 31, 2017
+**Today's Progress**: Konami Code and Slide In Scroll for Javascript 30 (Days 12 and 13) and Algorithms for FreeCodeCamp
+
+**Thoughts**: I did a tutorial on how to do keylogger events and slide in scroll. Slide in scroll is a really nice effect, but Wes says that without a debouncer, its heavy on the pages. I also did four Algorithms for FreeCodeCamp: Falsy, Seek and Destroy, Where Do I Belong and Caesar Cipher.
+
+##Day 29: February 1, 2017
+**Today's Progress**: Reference vs. Copy for Javascript 30 (Day 14)
+
+**Thoughts**: To be continued this evening.
+
