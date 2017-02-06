@@ -157,5 +157,31 @@
 ##Day 29: February 1, 2017
 **Today's Progress**: Reference vs. Copy for Javascript 30 (Day 14)
 
-**Thoughts**: To be continued this evening.
+**Thoughts**: Worked on tutorial from JS30. Also completed the jQuery tutorial for FreeCodeCamp.
 
+##Day 30: February 2, 2017
+**Today's Progress**: Random Quote Machine project FreeCodeCamp
+
+**Thoughts**: Started on my random quote machine. 
+**Link to work:** [Portfolio Page](https://codepen.io/lclc68lclc/pen/EZLYae)
+
+##Day 31: February 3, 2017
+**Today's Progress**: LocalStorage and Event Delegation for Javascript 30 (Day 15)
+
+**Thoughts**: This tutorial was about doing get and post requests using LocalStorage (which is basically keeping information on the page even if you reload) Also used event delegation. 
+
+##Day 32: February 4, 2017
+**Today's Progress**: CSS Text Shadow Mouse Move Effect/ Sorting Band Names for Javascript 30 (Days 16 and 17)
+
+**Thoughts**: This is a cool effect that makes a text shadow move when you hover over it with the mouse. The Sorting Band Names tutorial showed how to sort excluding the|an|a. 
+
+##Day 33: February 5, 2017
+**Today's Progress**: Tally String Times with Reduce for Javascript 30 (Day 18)
+
+**Thoughts**: This was a simple tutorial to show how to tally all of the videos time.
+
+##Day 34: February 6, 2017 
+**Today's Progress**: Random Quote Machine project FreeCodeCamp/ WeatherApp project
+
+**Thoughts**: Started on my random quote machine. Currently having api issues. 
+**Link to work:** [Portfolio Page](https://codepen.io/lclc68lclc/pen/EZLYae)
