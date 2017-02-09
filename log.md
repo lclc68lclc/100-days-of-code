@@ -180,8 +180,9 @@
 
 **Thoughts**: This was a simple tutorial to show how to tally all of the videos time.
 
-##Day 34: February 6, 2017 
+##Day 34/35/36/37: February 6-9, 2017 
 **Today's Progress**: Random Quote Machine project FreeCodeCamp/ WeatherApp project
 
-**Thoughts**: Started on my random quote machine. Currently having api issues. 
-**Link to work:** [Portfolio Page](https://codepen.io/lclc68lclc/pen/EZLYae)
+**Thoughts**: Started on my random quote machine. I have spent countless hours on it. Countless, all because of the CORS issue with the api. It's the same on both projects. I found a workaround for the weather app, but the icon does not show. I fixed the quote button so now it works when you attempt to retrieve another quote. All that is left is fixing the tweet button so it works. And then I will have one project under my belt. It's really frustrating that FCC KNOWS this is an issue, and while the other students have been tremendously helpful, this is something that should be worked on. Most of my hours have been spent fixing this CORS error.  
+**Link to work:** [Random Quote Machine](https://codepen.io/lclc68lclc/full/EZLYae)
+**Link to work:** [Weather App](https://codepen.io/lclc68lclc/full/pRZyeR)
