@@ -183,6 +183,28 @@
 ##Day 34/35/36/37: February 6-9, 2017 
 **Today's Progress**: Random Quote Machine project FreeCodeCamp/ WeatherApp project
 
-**Thoughts**: Started on my random quote machine. I have spent countless hours on it. Countless, all because of the CORS issue with the api. It's the same on both projects. I found a workaround for the weather app, but the icon does not show. I fixed the quote button so now it works when you attempt to retrieve another quote. All that is left is fixing the tweet button so it works. And then I will have one project under my belt. It's really frustrating that FCC KNOWS this is an issue, and while the other students have been tremendously helpful, this is something that should be worked on. Most of my hours have been spent fixing this CORS error.  
+**Thoughts**: Started on my random quote machine. I have spent countless hours on it. Countless, all because of the CORS issue with the api. It's the same on both projects. I found a workaround for the weather app, but the icon does not show. I fixed the quote button so now it works when you attempt to retrieve another quote. All that is left is fixing the tweet button so it works. And then I will have one project under my belt. It's really frustrating that FCC KNOWS this is an issue, and while the other students have been tremendously helpful, this is something that should be worked on. Most of my hours have been spent fixing this CORS error.  **Update**: I finished and uploaded the WeatherApp to FreeCodeCamp.
 **Link to work:** [Random Quote Machine](https://codepen.io/lclc68lclc/full/EZLYae)
 **Link to work:** [Weather App](https://codepen.io/lclc68lclc/full/pRZyeR)
+
+##Day 38: February 10, 2017
+**Today's Progress**: The only thing I managed to do was install Node.js for an upcoming project with Javascript 30.
+
+##Day 39: February 12, 2017
+**Today's Progress**: Webcam Photo Booth for Javascript 30 (Day 19)
+**Thoughts**: This was really cool and I learned a lot about setting up a node.js server (through trial and error), working with a camera and rgb values.
+
+##Day 40: February 13, 2017
+**Today's Progress**: I worked on the Intermediate algorithm on FreeCodeCamp. 
+**Thoughts**: I didn't make much progress.
+
+##Day 41: February 14, 2017
+**Today's Progress**: Random Quote Machine project FreeCodeCamp
+
+**Thoughts**: Spent lots of time working on this to get it submitted to FreeCodeCamp.
+
+##Day 42: February 15, 2017
+**Today's Progress**: Random Quote Machine/Wikipedia Search project FreeCodeCamp
+**Thoughts**: VICTORY!!! I finally figured out the problem with my tweet button and once that was done, I was able to submit! That's two jQuery projects down and two left!!!
+**Link to work:** [Random Quote Machine](https://codepen.io/lclc68lclc/pen/KaENGG)
+**Link to work:** [Wikipedia Search](https://codepen.io/lclc68lclc/pen/xgyyjL)
