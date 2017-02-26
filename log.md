@@ -208,3 +208,22 @@
 **Thoughts**: VICTORY!!! I finally figured out the problem with my tweet button and once that was done, I was able to submit! That's two jQuery projects down and two left!!!
 **Link to work:** [Random Quote Machine](https://codepen.io/lclc68lclc/pen/KaENGG)
 **Link to work:** [Wikipedia Search](https://codepen.io/lclc68lclc/pen/xgyyjL)
+
+##Day 43: February 17, 2017
+**Today's Progress**: Wikipedia Search project FreecodeCamp
+**Thoughts**: Worked on the wikipedia Search project for FreeCodeCamp.
+**Link to work:** [Wikipedia Search](https://codepen.io/lclc68lclc/pen/xgyyjL)
+
+##Day 44: February 18, 2017
+**Today's Progress**: Days 22-29 for Javascript 30
+**Thoughts**: I binged coded on this day to finish up the JS30 tutorials. Six hours of non-stop coding. Wes Bos teaching methods are awesome. I want to take more of his classes.
+
+##Days 45 - 47: February 19-21, 2017
+**Today's Progress**: Wikipedia Search project for FreeCodeCamp
+**Thoughts**: Worked on and finished the Wikipedia search project.
+**Link to work:** [Wikipedia Search](https://codepen.io/lclc68lclc/full/xgyyjL/)
+
+##Days 48 - 52: February 22-26, 2017
+**Today's Progress**: TwitchTV project for FreeCodeCamp
+**Thoughts**: Worked on and finished the TwitchTV project.
+**Link to work:** [TwitchTV Streamers](https://codepen.io/lclc68lclc/full/RKXBKw/)
