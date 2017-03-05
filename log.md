@@ -227,3 +227,27 @@
 **Today's Progress**: TwitchTV project for FreeCodeCamp
 **Thoughts**: Worked on and finished the TwitchTV project.
 **Link to work:** [TwitchTV Streamers](https://codepen.io/lclc68lclc/full/RKXBKw/)
+
+##Day 53: February 27, 2017
+**Today's Progress**: Algorithms on FreeCodeCamp
+**Thoughts**: Finished the Sum All Numbers in a Range and Diff Two Arrays
+
+##Day 54: February 28, 2017
+**Today's Progress**: Algorithms on FreeCodeCamp
+**Thoughts**: Finished Roman Numeral Converter.
+
+##Day 55: March 1, 2017
+**Today's Progress**: Started CS50
+**Thoughts**: I thought that today would be a good day to start CS50 to help me with completing algorithms.
+
+##Day 56: March 3, 2017
+**Today's Progress**: Worked on Portfolio
+**Thoughts**: I've decided to re-design my portfolio to incorporate a blog and then I'm going to push it to a website.
+
+##Day 57: March 4, 2017
+**Today's Progress**: Worked on BE redesign
+**Thoughts**: I had the idea (after reading a blog post on filling your portfolio with stuff) to redesign a website that I think has amazing information, but is very overcrowded, Black Enterprise. I pulled some of the design elements from the existing website that I want to carry over into the more minimal design that I have in my head. I realize that this is not technically coding, but design is important.
+
+##Day 58: March 5, 2017
+**Today's Progress**: Worked on Blog/CS50 Week 1
+**Thoughts**:
