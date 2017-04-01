@@ -255,3 +255,7 @@
 ##Days 59-60: Sometime between March 6 and 15th
 **Today's Progress**: Worked on a conglomerate of things.
 **Thoughts**: I thought that with a laptop to help me, I'd be able to code while on vacation. It wasn't as easy as I thought it would be. I have managed to listen to some CS50 here, I finished "You Don't Know JS: Up and Going", and started on the second one. I did a little bit of design on my blog. I looked at design stuff. So while I've managed to not completely forget everything that I have learned in the first 50 days, I wasn't able to do as much coding as I'd have liked. I'll be back to my daily schedule come Friday (which coincedently is St. Patrick's Day).
+
+#Day 61: April 1, 2017
+**Today's Progress**: Worked on Intermediate Algorithms
+**Thoughts**: I have actually been coding or learning to code or reading about code, every single day. However, I have not been consistent with my log. So from here on out, I am going to log every day. Today was just algorithms from FreeCodeCamp. I hope to start on projects soon.
