@@ -266,7 +266,7 @@
 **Today's Progress**: Worked on Intermediate Algorithms
 **Thoughts**: I have actually been coding or learning to code or reading about code, every single day. However, I have not been consistent with my log. So from here on out, I am going to log every day. Today was just algorithms from FreeCodeCamp. I hope to start on projects soon.
 
-##Day 64: April 3, 2017
+### Day 64: April 3, 2017
 **Today's Progress**: Underline Hover Effect for Nav Bar
 **Thoughts**: Worked on creating a hover effect for a nav bar. I want to integrate this into my portfolio/website.
 **Link to work**: [Hover Effect](https://codepen.io/lclc68lclc/full/aJMOLJ/)
