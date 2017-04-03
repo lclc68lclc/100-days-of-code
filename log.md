@@ -144,125 +144,125 @@
 
 **Thoughts**: The custom video player tutorial was really helpful, and that's one of the things I've come to appreciate most about learning with JS30. We make reusable code. Code that will in the future make our lives and jobs easier.
 
-##Day 27: January 30, 2017
+### Day 27: January 30, 2017
 **Today's Progress**: Algorithms for FreeCodeCamp
 
 **Thoughts**: I did three Algorithms for FreeCodeCamp: Truncate a String, Chunky Monkey, and Slasher Flick.
 
-##Day 28: January 31, 2017
+### Day 28: January 31, 2017
 **Today's Progress**: Konami Code and Slide In Scroll for Javascript 30 (Days 12 and 13) and Algorithms for FreeCodeCamp
 
 **Thoughts**: I did a tutorial on how to do keylogger events and slide in scroll. Slide in scroll is a really nice effect, but Wes says that without a debouncer, its heavy on the pages. I also did four Algorithms for FreeCodeCamp: Falsy, Seek and Destroy, Where Do I Belong and Caesar Cipher.
 
-##Day 29: February 1, 2017
+### Day 29: February 1, 2017
 **Today's Progress**: Reference vs. Copy for Javascript 30 (Day 14)
 
 **Thoughts**: Worked on tutorial from JS30. Also completed the jQuery tutorial for FreeCodeCamp.
 
-##Day 30: February 2, 2017
+### Day 30: February 2, 2017
 **Today's Progress**: Random Quote Machine project FreeCodeCamp
 
 **Thoughts**: Started on my random quote machine. 
 **Link to work:** [Portfolio Page](https://codepen.io/lclc68lclc/pen/EZLYae)
 
-##Day 31: February 3, 2017
+### Day 31: February 3, 2017
 **Today's Progress**: LocalStorage and Event Delegation for Javascript 30 (Day 15)
 
 **Thoughts**: This tutorial was about doing get and post requests using LocalStorage (which is basically keeping information on the page even if you reload) Also used event delegation. 
 
-##Day 32: February 4, 2017
+### Day 32: February 4, 2017
 **Today's Progress**: CSS Text Shadow Mouse Move Effect/ Sorting Band Names for Javascript 30 (Days 16 and 17)
 
 **Thoughts**: This is a cool effect that makes a text shadow move when you hover over it with the mouse. The Sorting Band Names tutorial showed how to sort excluding the|an|a. 
 
-##Day 33: February 5, 2017
+### Day 33: February 5, 2017
 **Today's Progress**: Tally String Times with Reduce for Javascript 30 (Day 18)
 
 **Thoughts**: This was a simple tutorial to show how to tally all of the videos time.
 
-##Day 34/35/36/37: February 6-9, 2017 
+### Day 34/35/36/37: February 6-9, 2017 
 **Today's Progress**: Random Quote Machine project FreeCodeCamp/ WeatherApp project
 
 **Thoughts**: Started on my random quote machine. I have spent countless hours on it. Countless, all because of the CORS issue with the api. It's the same on both projects. I found a workaround for the weather app, but the icon does not show. I fixed the quote button so now it works when you attempt to retrieve another quote. All that is left is fixing the tweet button so it works. And then I will have one project under my belt. It's really frustrating that FCC KNOWS this is an issue, and while the other students have been tremendously helpful, this is something that should be worked on. Most of my hours have been spent fixing this CORS error.  **Update**: I finished and uploaded the WeatherApp to FreeCodeCamp.
 **Link to work:** [Random Quote Machine](https://codepen.io/lclc68lclc/full/EZLYae)
 **Link to work:** [Weather App](https://codepen.io/lclc68lclc/full/pRZyeR)
 
-##Day 38: February 10, 2017
+### Day 38: February 10, 2017
 **Today's Progress**: The only thing I managed to do was install Node.js for an upcoming project with Javascript 30.
 
-##Day 39: February 12, 2017
+### Day 39: February 12, 2017
 **Today's Progress**: Webcam Photo Booth for Javascript 30 (Day 19)
 **Thoughts**: This was really cool and I learned a lot about setting up a node.js server (through trial and error), working with a camera and rgb values.
 
-##Day 40: February 13, 2017
+### Day 40: February 13, 2017
 **Today's Progress**: I worked on the Intermediate algorithm on FreeCodeCamp. 
 **Thoughts**: I didn't make much progress.
 
-##Day 41: February 14, 2017
+### Day 41: February 14, 2017
 **Today's Progress**: Random Quote Machine project FreeCodeCamp
 
 **Thoughts**: Spent lots of time working on this to get it submitted to FreeCodeCamp.
 
-##Day 42: February 15, 2017
+### Day 42: February 15, 2017
 **Today's Progress**: Random Quote Machine/Wikipedia Search project FreeCodeCamp
 **Thoughts**: VICTORY!!! I finally figured out the problem with my tweet button and once that was done, I was able to submit! That's two jQuery projects down and two left!!!
 **Link to work:** [Random Quote Machine](https://codepen.io/lclc68lclc/pen/KaENGG)
 **Link to work:** [Wikipedia Search](https://codepen.io/lclc68lclc/pen/xgyyjL)
 
-##Day 43: February 17, 2017
+### Day 43: February 17, 2017
 **Today's Progress**: Wikipedia Search project FreecodeCamp
 **Thoughts**: Worked on the wikipedia Search project for FreeCodeCamp.
 **Link to work:** [Wikipedia Search](https://codepen.io/lclc68lclc/pen/xgyyjL)
 
-##Day 44: February 18, 2017
+### Day 44: February 18, 2017
 **Today's Progress**: Days 22-29 for Javascript 30
 **Thoughts**: I binged coded on this day to finish up the JS30 tutorials. Six hours of non-stop coding. Wes Bos teaching methods are awesome. I want to take more of his classes.
 
-##Days 45 - 47: February 19-21, 2017
+### Days 45 - 47: February 19-21, 2017
 **Today's Progress**: Wikipedia Search project for FreeCodeCamp
 **Thoughts**: Worked on and finished the Wikipedia search project.
 **Link to work:** [Wikipedia Search](https://codepen.io/lclc68lclc/full/xgyyjL/)
 
-##Days 48 - 52: February 22-26, 2017
+### Days 48 - 52: February 22-26, 2017
 **Today's Progress**: TwitchTV project for FreeCodeCamp
 **Thoughts**: Worked on and finished the TwitchTV project.
 **Link to work:** [TwitchTV Streamers](https://codepen.io/lclc68lclc/full/RKXBKw/)
 
-##Day 53: February 27, 2017
+### Day 53: February 27, 2017
 **Today's Progress**: Algorithms on FreeCodeCamp
 **Thoughts**: Finished the Sum All Numbers in a Range and Diff Two Arrays
 
-##Day 54: February 28, 2017
+### Day 54: February 28, 2017
 **Today's Progress**: Algorithms on FreeCodeCamp
 **Thoughts**: Finished Roman Numeral Converter.
 
-##Day 55: March 1, 2017
+### Day 55: March 1, 2017
 **Today's Progress**: Started CS50
 **Thoughts**: I thought that today would be a good day to start CS50 to help me with completing algorithms.
 
-##Day 56: March 3, 2017
+### Day 56: March 3, 2017
 **Today's Progress**: Worked on Portfolio
 **Thoughts**: I've decided to re-design my portfolio to incorporate a blog and then I'm going to push it to a website.
 
-##Day 57: March 4, 2017
+### Day 57: March 4, 2017
 **Today's Progress**: Worked on BE redesign
 **Thoughts**: I had the idea (after reading a blog post on filling your portfolio with stuff) to redesign a website that I think has amazing information, but is very overcrowded, Black Enterprise. I pulled some of the design elements from the existing website that I want to carry over into the more minimal design that I have in my head. I realize that this is not technically coding, but design is important.
 
-##Day 58: March 5, 2017
+### Day 58: March 5, 2017
 **Today's Progress**: Worked on Blog/CS50 Week 1
 **Thoughts**:
 
-##Days 59-60: Sometime between March 6 and 15th
+### Days 59-60: Sometime between March 6 and 15th
 **Today's Progress**: Worked on a conglomerate of things.
 **Thoughts**: I thought that with a laptop to help me, I'd be able to code while on vacation. It wasn't as easy as I thought it would be. I have managed to listen to some CS50 here, I finished "You Don't Know JS: Up and Going", and started on the second one. I did a little bit of design on my blog. I looked at design stuff. So while I've managed to not completely forget everything that I have learned in the first 50 days, I wasn't able to do as much coding as I'd have liked. I'll be back to my daily schedule come Friday (which coincedently is St. Patrick's Day).
 
-##Days 61-62: March 21/22, 2017
+### Days 61-62: March 21/22, 2017
 **Today's Progress**: Intro to Ajax Course
 **Thoughts**: I took the course to get a better understanding of AJAX and CORS errors. I ended up building a site that takes an address and tells you things about the address you searched. It uses the google maps api, the New York Times API and the wikipedia API. When it works correctly, it's a neat web app. However, I couldn't get it to work. For some reason, the concept of CORS seems to allude me.
 **Link to work**: [Where do you want to live?] (https://codepen.io/lclc68lclc/full/BWxzwB/)
 
 
-#Day 63: April 1, 2017
+### Day 63: April 1, 2017
 **Today's Progress**: Worked on Intermediate Algorithms
 **Thoughts**: I have actually been coding or learning to code or reading about code, every single day. However, I have not been consistent with my log. So from here on out, I am going to log every day. Today was just algorithms from FreeCodeCamp. I hope to start on projects soon.
 
