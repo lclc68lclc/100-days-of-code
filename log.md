@@ -256,6 +256,17 @@
 **Today's Progress**: Worked on a conglomerate of things.
 **Thoughts**: I thought that with a laptop to help me, I'd be able to code while on vacation. It wasn't as easy as I thought it would be. I have managed to listen to some CS50 here, I finished "You Don't Know JS: Up and Going", and started on the second one. I did a little bit of design on my blog. I looked at design stuff. So while I've managed to not completely forget everything that I have learned in the first 50 days, I wasn't able to do as much coding as I'd have liked. I'll be back to my daily schedule come Friday (which coincedently is St. Patrick's Day).
 
-#Day 61: April 1, 2017
+##Days 61-62: March 21/22, 2017
+**Today's Progress**: Intro to Ajax Course
+**Thoughts**: I took the course to get a better understanding of AJAX and CORS errors. I ended up building a site that takes an address and tells you things about the address you searched. It uses the google maps api, the New York Times API and the wikipedia API. When it works correctly, it's a neat web app. However, I couldn't get it to work. For some reason, the concept of CORS seems to allude me.
+**Link to work**: [Where do you want to live?] (https://codepen.io/lclc68lclc/full/BWxzwB/)
+
+
+#Day 63: April 1, 2017
 **Today's Progress**: Worked on Intermediate Algorithms
 **Thoughts**: I have actually been coding or learning to code or reading about code, every single day. However, I have not been consistent with my log. So from here on out, I am going to log every day. Today was just algorithms from FreeCodeCamp. I hope to start on projects soon.
+
+##Day 64: April 3, 2017
+**Today's Progress**: Underline Hover Effect for Nav Bar
+**Thoughts**: Worked on creating a hover effect for a nav bar. I want to integrate this into my portfolio/website.
+**Link to work**: [Hover Effect](https://codepen.io/lclc68lclc/full/aJMOLJ/)
