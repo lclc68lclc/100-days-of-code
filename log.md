@@ -270,3 +270,7 @@
 **Today's Progress**: Underline Hover Effect for Nav Bar
 **Thoughts**: Worked on creating a hover effect for a nav bar. I want to integrate this into my portfolio/website.
 **Link to work**: [Hover Effect](https://codepen.io/lclc68lclc/full/aJMOLJ/)
+
+### Day 65: April 4, 2017
+**Today's Progress**: Intermediate Algorithms
+**Thoughts**: Finished the intermediate algorithms from FreeCodeCamp.
