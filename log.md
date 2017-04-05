@@ -274,3 +274,11 @@
 ### Day 65: April 4, 2017
 **Today's Progress**: Intermediate Algorithms
 **Thoughts**: Finished the intermediate algorithms from FreeCodeCamp.
+
+### Day 66: April 5, 2017
+
+**Today's Progress**: JS Calculator with FreeCodeCamp
+
+**Thoughts**:Started on FreeCodeCamp JS Calculator. Only worked on the CSS, because I want to try my hand at Flex.
+
+**Link to work**: [JS Calculator](https://codepen.io/lclc68lclc/pen/yMrZor)
