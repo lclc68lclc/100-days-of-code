@@ -275,7 +275,7 @@
 **Today's Progress**: Intermediate Algorithms
 **Thoughts**: Finished the intermediate algorithms from FreeCodeCamp.
 
-### Day 66: April 5, 2017
+### Day 66-71: April 5-10, 2017
 
 **Today's Progress**: JS Calculator with FreeCodeCamp
 
