@@ -286,3 +286,11 @@
 ### Day 77: April 16, 2017
 **Today's Progress**: Was asked to redesign a website. Currently working on it.
 
+### Day 78-79: April 17-18, 2017
+
+**Today's Progress**: JS Calculator with FreeCodeCamp
+
+**Thoughts**:I have met all of the requirements for the calculator and I am almost ready to sumbit. I want to add the keypress function and add the decimal which allows for the float to be parsed.
+
+**Link to work**: [JS Calculator](https://codepen.io/lclc68lclc/pen/yMrZor)
+
