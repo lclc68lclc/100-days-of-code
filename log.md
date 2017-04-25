@@ -294,5 +294,11 @@
 
 **Link to work**: [JS Calculator](https://lclc68lclc.github.io/jscalculator/)
 
-### Days 82-84: April 20-22, 2017
+### Days 82-85: April 20-23, 2017
 **Today's Progress**: Was asked to redesign a website. Currently working on it.
+
+### Days 86: April 24, 2017
+**Today's Progress**: Started on FreeCodeCamp's Pomodoro Clock.
+
+### Day 87: April 25, 2017
+**Today's Progress**: Worked on FreeCodeCamp's advanced algorithms.
