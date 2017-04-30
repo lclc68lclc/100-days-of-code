@@ -300,5 +300,9 @@
 ### Days 86: April 24, 2017
 **Today's Progress**: Started on FreeCodeCamp's Pomodoro Clock.
 
-### Day 87: April 25, 2017
-**Today's Progress**: Worked on FreeCodeCamp's advanced algorithms.
+### Days 87-90: April 25-28, 2017
+**Today's Progress**: Worked on FreeCodeCamp's advanced algorithms. Completed all of them. 
+
+### Days 91-92: April 29-30, 2017
+**Today's Progress**: Finished FreeCodeCamp's Pomodoro Clock.
+** Link to Work**: [Pomodoro Clock](https://codepen.io/lclc68lclc/full/EmgWxm/)
