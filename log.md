@@ -308,3 +308,12 @@
 **Today's Progress**: Finished FreeCodeCamp's Pomodoro Clock.
 
 **Link to Work**: [Pomodoro Clock](https://codepen.io/lclc68lclc/full/EmgWxm/)
+
+### Days 93 - 94: May 1 - 2, 2017
+**Today's Progress**: Worked on website redesign.
+
+### Day 95: May 3, 2017
+**Today's Progress**: Worked on FreeCodeCamp's Tic tac toe Game.
+
+## Day 96: May 4, 2017
+**Today's Progress**: Worked on website redesign.
