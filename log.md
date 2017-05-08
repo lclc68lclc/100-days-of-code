@@ -318,7 +318,13 @@
 ## Day 96: May 4, 2017
 **Today's Progress**: Worked on website redesign.
 
-## Day 97: May 6, 2017
+## Day 97: May 5, 2017
+**Today's Progress**: Worked on website redesign.
+
+## Day 98: May 6, 2017
 **Today's Progress**: Finished FreeCodeCamp's Tic Tac Toe Game.
 
 **Link to Work**: [TicTacToe Game](https://codepen.io/lclc68lclc/full/Vbrmjv/)
+
+## Day 99-100: May 7-8, 2017  
+**Today's Progress**: Finished Simon Game and got FreeCodeCamp front end development certificate. I'm done!!! YAY!!!
